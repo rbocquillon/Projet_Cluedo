@@ -1,0 +1,16 @@
+/.classpath
+/.project
+/Affichage.class
+/Deck.class
+/Fantome.class
+/Fin.class
+/IA.class
+/Initialisation.class
+/Jeu.class
+/Joueur.class
+/Lancement.class
+/Strategie.class
+/StrategieBasique.class
+/StrategieLieuMain.class
+/StrategieLieuPossible.class
+/Test.class
